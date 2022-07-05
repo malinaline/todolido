@@ -1,8 +1,7 @@
 # todolido
 https://todolido.netlify.app/
 
-##
-Kalender med Todo 
+## Kalender med Todo 
 I den här uppgiften så skall du ta fram en kalender med todo funktion. 
 
 Todo’s (uppgifter) skall kunna läggas till och markeras som klara (genomföra).
