@@ -1,5 +1,4 @@
 # Todolido App
-https://todolido.netlify.app/
 
 # Kalender med Todo 
 
